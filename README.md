@@ -4,9 +4,9 @@ A very simple SD WebUI extension for merging two checkpoint models. Compatible w
 
 ## Features
 
-- **Checkpoint Merging**: Merge two checkpoint models with various merge modes
-  - Weight Sum: Simple weighted combination
-  - Add Difference: Add scaled difference between models
+- Merge two checkpoint models with various merge modes
+- Weight Sum: Simple weighted combination
+- Add Difference: Add scaled difference between models
 
 ## SD WebUI Installation
 
